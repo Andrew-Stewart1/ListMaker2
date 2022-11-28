@@ -55,7 +55,7 @@ public class ListMaker {
             }
         }
         public static void quit () {
-            System.out.println("Goodbye");
+            System.out.println("You have unsaved data are you sure you want to quit");
             System.exit(0);
         }
     }
